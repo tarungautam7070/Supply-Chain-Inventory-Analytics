@@ -110,7 +110,7 @@ This project showcases hands-on PostgreSQL and SQL experience relevant to entry-
 
 ![Inventory & Warehouse Analysis](screenshots/inventory-warehouse-analysis.png)
 
-![Product & Supplier Analysis](product-supplier-analysis.png)
+![Product & Supplier Analysis](screenshots/product-supplier-analysis.png)
 
 ![Executive Overview](screenshots/executive-overview.png)
 
