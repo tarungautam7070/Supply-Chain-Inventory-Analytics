@@ -1,4 +1,4 @@
-# Supply Chain & Inventory Analytics
+<img width="1336" height="720" alt="Inventory   Warehouse Analysis" src="https://github.com/user-attachments/assets/fa3611a7-64c6-4f41-b30f-54d31882498c" /># Supply Chain & Inventory Analytics
 
 ## Project Overview
 
@@ -103,3 +103,14 @@ This project demonstrates practical SQL skills for analyzing relational business
 ## Repository Purpose
 
 This project showcases hands-on PostgreSQL and SQL experience relevant to entry-level Data Analyst roles.
+
+## Dashboard Preview
+
+![Business Insights](screenshots/business-insights.png)
+
+![Inventory & Warehouse Analysis](screenshots/inventory-warehouse-analysis.png)
+
+![Product & Supplier Analysis](product-supplier-analysis.png)
+
+![Executive Overview](screenshots/executive-overview.png)
+
