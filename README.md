@@ -1,4 +1,4 @@
-<img width="1336" height="720" alt="Inventory   Warehouse Analysis" src="https://github.com/user-attachments/assets/fa3611a7-64c6-4f41-b30f-54d31882498c" /># Supply Chain & Inventory Analytics
+Supply Chain & Inventory Analytics
 
 ## Project Overview
 
