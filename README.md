@@ -94,7 +94,7 @@ The project covers the following types of analysis:
 
 - `README.md` — Project documentation
 - `SQL/` — SQL queries organized by analysis topic
-- `screenshots/` — Screenshots of query results and analysis, when available
+- `screenshots/` — Screenshots analysis
 
 ## Key Learning
 
